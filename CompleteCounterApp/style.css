@@ -1,0 +1,30 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    background-color: rgb(106, 133, 46);
+    width: 200px;
+    height: 250x;
+}
+
+#inc {
+    color: white;
+    background-color: brown;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#save {
+    color: white;
+    background-color: cadetblue;
+    padding: 5px;
+    font-size: 20px;
+}
